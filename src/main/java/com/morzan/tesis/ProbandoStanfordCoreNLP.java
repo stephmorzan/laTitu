@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.Properties;
 
 import com.morzan.beans.POSWord;
+import com.morzan.ctes.RutasCte;
 import com.morzan.ctes.TagCte;
 import com.morzan.lexicon.LexiconAutoritas;
 
@@ -31,11 +32,21 @@ public class ProbandoStanfordCoreNLP {
 */
 		
 		// Se hace el POS Tagger con Stanford CoreNLP
-		MaxentTagger maxentTagger = new MaxentTagger(
-				"../tesis/posmodels_resources/stanford-postagger-full-2018-10-16/models/spanish-distsim.tagger");
+		MaxentTagger maxentTagger = new MaxentTagger(RutasCte.PATH_POSMODEL);
 		String tag = maxentTagger.tagString(
 //				"Voronina Tuve abundantes ganas de correr. Aburrida. Recién mañana me dan mis resultados y no sé qué puedo avanzar. Ni siquiera puedo salir con el chico que me gusta porque quiere avanzar su tesis, y Solo porque Yo comencé con esto. Me molesta un poco, pero ya qué más da. Al menos mi código anterior funciona, y eso me alegra un poco.");
-				"Tuve un par de pruebas rápidas que hacer antes y luego del almuerzo. Mañana comienzo a aprender cómo probar en una interfaz nueva; me parece tan raro y emocionante que me hayan promovido. Todo el día he tenido unos cólicos insoportables que no me dejaban caminar, mucho menos quedarme de pie. Lo que sí tuve el día anterior fue una tarde loca de sexo sin penetración pero de tantas ganas de saciarlas.");
+				"Tuve un par de pruebas rápidas que hacer antes y luego del almuerzo tuve que"
+				+ "repetir mis pruebas. Al parecer, no era un error lo que había detectado, sino"
+				+ " un comportamiento del sistema que decidieron dejarlo tal y como está. "
+				+ "Mañana comienzo a aprender cómo probar en una interfaz nueva; me parece"
+				+ " tan raro y emocionante que me hayan promovido. Todo el día he tenido unos"
+				+ " cólicos insoportables que no me dejaban caminar, mucho menos quedarme de"
+				+ " pie. Lo que sí tuve el día anterior fue una tarde loca de sexo sin"
+				+ " penetración pero de tantas ganas de saciarlas. Me encantaría volver"
+				+ " a repetirlo, y excitándonos sin parar hasta terminar rendidos por el"
+				+ " cansancio y llegar a dormir uno a lado del otro, bien abrigados y juntos;"
+				+ " claro está que debo tener mucho cuidado, pues no deseo exponerme al peligro de terminar "
+				+ "embarazada y estancar mi vida en estos momentos.");
 ////		String tag = maxentTagger.tagString("aguijonearíamos alcahuetearíamos aislaríamos");
 		tag = tag.toLowerCase();
 		List<String> eachTag = Arrays.asList((tag.split("\\s+")));
@@ -244,7 +255,7 @@ public class ProbandoStanfordCoreNLP {
 
 		Properties prop = new Properties();
 		Properties prop2 = new Properties();
-		String archivo = "lex2.properties";
+		String archivo = "todos_lemmas.properties";
 
 		inputStream = getClass().getClassLoader().getResourceAsStream(archivo);
 		outputStream = new FileOutputStream("results2.properties");
