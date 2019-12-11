@@ -1,0 +1,1203 @@
+Conversación 1
+Paris
+¡Hola! ¿Cómo estás?
+Nov 6, 8:27 PM 
+Usuario
+Sueño y cansado
+Nov 6, 8:27 PM 
+Paris
+¿Por qué lo sientes así?
+Nov 6, 8:27 PM 
+Usuario
+Mucho trabajo
+Nov 6, 8:27 PM 
+Paris
+Puedes comentarme cómo te va cuando desees.
+Nov 6, 8:27 PM 
+Usuario
+Gracias
+Nov 6, 8:28 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 6, 8:28 PM 
+Usuario
+Okis
+Nov 6, 8:28 PM 
+Paris
+Muchas gracias por tus respuestas.
+Nov 6, 8:28 PM 
+***************************************************************************
+Conversación 2
+Paris
+¡Hola! ¿Cómo te encuentras?
+Nov 6, 8:36 PM 
+Usuario
+Bien
+Nov 6, 8:36 PM 
+Paris
+Dime, ¿cómo te has ido sintiendo durante el día?
+Nov 6, 8:36 PM 
+Usuario
+Cansado
+Nov 6, 8:36 PM 
+Paris
+¿Podrías comentarme qué cosas te afectaron?
+Nov 6, 8:36 PM 
+Usuario
+La chamba
+Nov 6, 8:37 PM 
+Paris
+Gracias por responder. Buen día.
+Nov 6, 8:37 PM 
+
+***************************************************************************
+Conversación 3
+Paris
+¡Buen día! ¿Cómo estás?
+Nov 6, 9:56 PM 
+Usuario
+Bien
+Nov 6, 9:56 PM 
+Paris
+Coméntame, qué has estado haciendo
+Nov 6, 9:56 PM 
+Usuario
+Trabajando, revisando mi facebook, almorzando, ordenando mi closet.
+Nov 6, 9:58 PM 
+Paris
+Gracias por responder. Buen día.
+Nov 6, 9:58 PM 
+
+***************************************************************************
+Conversación 4
+Paris
+¡Hola! ¿Qué tal el día?
+Nov 7, 12:07 AM 
+Usuario
+Bueno
+Nov 7, 12:08 AM 
+Paris
+¿Qué ha pasado?
+Nov 7, 12:08 AM 
+Usuario
+He tenido entrevistas de trabajo, me han salido bien las cosas de casa, me he encontrado con amigos que no veía hace tiempo
+Nov 7, 12:10 AM 
+Paris
+Puedes comentarme cómo te va cuando desees.
+Nov 7, 12:10 AM 
+
+***************************************************************************
+Conversación 5
+Paris
+¡Hola! ¿Hasta ahora cómo vas?
+Nov 7, 1:57 PM 
+Usuario
+Bastante bien gracias
+Nov 7, 1:57 PM 
+Paris
+¿De verdad? ¡¡Qué maravilla!! Dime, ¿Cómo fue? ¿Qué pasó?
+Nov 7, 1:57 PM 
+Usuario
+Nada en particular. He estado trabajando y cuidando de mi salud. Ahora último me rendí con un libro porque la forma de escribir del escritor es bastante pesada y quizás algo compleja
+Nov 7, 1:58 PM 
+Paris
+Puedes comentarme cómo te va cuando desees.
+Nov 7, 1:58 PM 
+Usuario
+Ok gracias, lo tendré en cuenta.
+Nov 7, 1:59 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 7, 1:59 PM 
+
+***************************************************************************
+Conversación 6
+Paris
+¡Hola! ¿Cómo estás?
+Nov 7, 2:11 PM 
+Usuario
+Hola paris
+Nov 7, 2:11 PM 
+Paris
+¡Hola! ¿Cómo te encuentras?
+Nov 7, 2:11 PM 
+Usuario
+Bien y tú
+Nov 7, 2:11 PM 
+Paris
+Puedes comentarme cómo te va cuando desees.
+Nov 7, 2:11 PM 
+Usuario
+Todo bien, tranquilo. Estoy en el trabajo, ayudando a una amiga
+Nov 7, 2:12 PM 
+Paris
+¿Cómo te sientes?
+Nov 7, 2:12 PM 
+Usuario
+Con un poco de calor
+Nov 7, 2:12 PM 
+Paris
+Si deseas, puedes escribirme cómo te va. Buen día.
+Nov 7, 2:12 PM 
+Usuario
+Me va bien gracias
+Nov 7, 2:13 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 7, 2:13 PM
+
+***************************************************************************
+Conversación 7
+Paris
+¡Buen día! ¿Cómo te encuentras?
+Nov 7, 2:22 PM 
+Usuario
+Más o menos
+Nov 7, 2:23 PM 
+Paris
+¿Cómo te has ido sintiendo?
+Nov 7, 2:23 PM 
+Usuario
+A veces me siento bien, a veces me siento mal. Es como un 50-50
+Nov 7, 2:24 PM 
+Paris
+¿Por qué lo sientes así? Coméntame lo que piensas
+Nov 7, 2:24 PM 
+Usuario
+No sé, siento que algo me falta, pero no sé qué es.
+Nov 7, 2:25 PM 
+Paris
+Puedes comentarme cómo te va cuando desees.
+Nov 7, 2:25 PM 
+
+***************************************************************************
+Conversación 8
+Paris
+¡Hola! ¿Hasta ahora cómo vas?
+Nov 7, 5:11 PM 
+Usuario
+Hola, bien gracias y tú?
+Nov 7, 5:12 PM 
+Paris
+¡Hola! ¿Cómo te encuentras?
+Nov 7, 5:12 PM 
+Usuario
+Dije que bien y tú?
+Nov 7, 5:12 PM 
+Paris
+¡Qué bueno! Dime, ¿qué ha pasado?
+Nov 7, 5:12 PM 
+Usuario
+Bueno, me enteré hace un tiempo que mi novio me engañó durante todos nuestros años de relación. Ahora estoy triste y con el corazón roto.
+Nov 7, 5:15 PM 
+Paris
+Muchas gracias, y buen día.
+Nov 7, 5:15 PM 
+
+***************************************************************************
+Conversación 9
+Paris
+¡Hola! Cuéntame, ¿cómo te ha ido?
+Nov 7, 5:45 PM 
+Usuario
+bien
+Nov 7, 5:45 PM 
+Paris
+Dime, ¿cómo te has ido sintiendo durante el día?
+Nov 7, 5:45 PM 
+Usuario
+BIEN, NORMAL
+Nov 7, 5:45 PM 
+Paris
+¿Cómo te has ido sintiendo?
+Nov 7, 5:45 PM 
+Usuario
+NORMAL, NINGÚN PROBLEMA
+Nov 7, 5:46 PM 
+Paris
+Gracias por responder. Buen día.
+Nov 7, 5:46 PM 
+
+***************************************************************************
+Conversación 10
+Paris
+¡Hola! ¿Cómo te encuentras?
+Nov 7, 5:51 PM 
+Usuario
+Muy estresada
+Nov 7, 5:52 PM 
+Paris
+¿Podrías comentarme qué cosas te afectaron?
+Nov 7, 5:52 PM 
+Usuario
+En realidad no funciona mi ELO,porque no conecta al internet y tengo una hora intentándolo.
+Nov 7, 5:53 PM 
+Paris
+Puedes comentarme cómo te va cuando desees.
+Nov 7, 5:53 PM 
+Usuario
+Muchas gracias.
+Nov 7, 5:53 PM 
+Paris
+Gracias por responder. Buen día.
+Nov 7, 5:53 PM 
+
+***************************************************************************
+Conversación 11
+Paris
+¡Hola! Cuéntame, ¿cómo te ha ido?
+Nov 7, 5:54 PM 
+Usuario
+Bien
+Nov 7, 5:54 PM 
+Paris
+Coméntame, qué has estado haciendo
+Nov 7, 5:54 PM 
+Usuario
+Trabajando muy duro
+Nov 7, 5:54 PM 
+Paris
+Muchas gracias, y buen día.
+Nov 7, 5:54 PM 
+Usuario
+Gracias a ti
+Nov 7, 5:54 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 7, 5:54 PM 
+Usuario
+De igual manera
+Nov 7, 5:54 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 7, 5:54 PM 
+Usuario
+Igualmente
+Nov 7, 5:55 PM 
+Paris
+Muchas gracias por tus respuestas.
+Nov 7, 5:55 PM 
+Usuario
+Para ti también
+Nov 7, 5:55 PM 
+Paris
+Muchas gracias, y buen día.
+Nov 7, 5:55 PM 
+Usuario
+Gracias
+Nov 7, 5:55 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 7, 5:55 PM 
+
+***************************************************************************
+Conversación 12
+Paris
+¡Buen día! ¿Cómo te encuentras?
+Nov 7, 6:00 PM 
+Usuario
+Bien, gracias.
+Nov 7, 6:00 PM 
+Paris
+Coméntame, ¿cómo te sientes?
+Nov 7, 6:00 PM 
+Usuario
+Satisfecha
+Nov 7, 6:00 PM 
+Paris
+Gracias por responder. Buen día.
+Nov 7, 6:00 PM 
+
+***************************************************************************
+Conversación 13
+Paris
+¡Hola! ¿Cómo te encuentras?
+Nov 7, 6:03 PM 
+Usuario
+Hola
+Nov 7, 6:03 PM 
+Paris
+¡Buen día! ¿Cómo te va?
+Nov 7, 6:03 PM 
+Usuario
+Mal odio cbord
+Nov 7, 6:03 PM 
+Paris
+¿Qué ha pasado?
+Nov 7, 6:03 PM 
+Usuario
+No calcula bien
+Nov 7, 6:04 PM 
+Paris
+¿Por qué lo sientes así?
+Nov 7, 6:04 PM 
+Usuario
+Porque al hacer refund devuelve mal el monto
+Nov 7, 6:04 PM 
+Paris
+Muchas gracias, y buen día.
+Nov 7, 6:04 PM 
+
+***************************************************************************
+Conversación 14
+Paris
+¡Hola! ¿Cómo te encuentras?
+Nov 7, 6:43 PM 
+Usuario
+Bien
+Nov 7, 6:43 PM 
+Paris
+¿Qué ha pasado?
+Nov 7, 6:43 PM 
+Usuario
+El dia de hoy me van a entregar el carro que compramos. Y en el trabajo me ha ido bien. Justo acabo de compartir canchita y papitas con mis compañeros. Y todos estan contentos.
+Nov 7, 6:45 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 7, 6:45 PM 
+
+***************************************************************************
+Conversación 15
+Paris
+¡Hola! Hasta ahora, ¿cómo va tu día?
+Nov 7, 8:31 PM 
+Usuario
+Todo bien,y tu?
+Nov 7, 8:32 PM 
+Paris
+¡Qué bien! Cuéntame, ¿qué ha sucedido?
+Nov 7, 8:32 PM 
+Usuario
+Estoy jugando un juego con mis amigos
+Nov 7, 8:32 PM 
+Paris
+Muchas gracias por tus respuestas.
+Nov 7, 8:32 PM 
+Usuario
+De nada
+Nov 7, 8:32 PM 
+Paris
+Si deseas, puedes escribirme cómo te va. Buen día.
+Nov 7, 8:32 PM 
+
+***************************************************************************
+Conversación 16
+Paris
+¡Hola! ¿Cómo te encuentras?
+Nov 7, 8:33 PM 
+Usuario
+Todo bien, gracias
+Nov 7, 8:34 PM 
+Paris
+¡Qué bueno! Descríbeme por qué es un buen día para ti
+Nov 7, 8:34 PM 
+Usuario
+Porque el trabajo estuvo interesante y estoy avanzando mi tesis
+Nov 7, 8:34 PM 
+Paris
+¿Podrías comentarme qué cosas te afectaron?
+Nov 7, 8:34 PM 
+Usuario
+No nada
+Nov 7, 8:35 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 7, 8:35 PM 
+Usuario
+Igual tú
+Nov 7, 8:36 PM 
+Paris
+Muchas gracias por tus respuestas.
+Nov 7, 8:36 PM 
+
+***************************************************************************
+Conversación 17
+Paris
+¡Hola! ¿Qué tal el día?
+Nov 7, 8:50 PM 
+Usuario
+Con mucho calor
+Nov 7, 8:50 PM 
+Paris
+¿Qué ha pasado?
+Nov 7, 8:50 PM 
+Usuario
+Se malogró el aire acondicionado
+Nov 7, 8:51 PM 
+Paris
+Si deseas, puedes escribirme cómo te va. Buen día.
+Nov 7, 8:51 PM 
+
+***************************************************************************
+Conversación 18
+Paris
+¡Hola! ¿Qué tal el día?
+Nov 7, 9:05 PM 
+Usuario
+Hola, aburrido
+Nov 7, 9:05 PM 
+Paris
+¡Buen día! ¿Cómo te va?
+Nov 7, 9:05 PM 
+Usuario
+Ahí aburrido
+Nov 7, 9:06 PM 
+Paris
+¿Podrías comentarme qué cosas te afectaron?
+Nov 7, 9:06 PM 
+Usuario
+Nada, solo cansado de tanto tráfico
+Nov 7, 9:06 PM 
+Paris
+¿Qué ha pasado?
+Nov 7, 9:06 PM 
+Usuario
+Mucho tráfico
+Nov 7, 9:06 PM 
+Paris
+Muchas gracias, y buen día.
+Nov 7, 9:06 PM 
+
+***************************************************************************
+Conversación 19
+Paris
+¡Hola! ¿Hasta ahora cómo vas?
+Nov 7, 9:59 PM 
+Usuario
+Tranqui
+Nov 7, 10:00 PM 
+Paris
+Dime, ¿cómo te has ido sintiendo durante el día?
+Nov 7, 10:00 PM 
+Usuario
+Afiebrado, somnoliento, he perdido un juego anteriormente y me acaban de matar en el juego. La venganza se come fría
+Nov 7, 10:01 PM 
+Paris
+Muchas gracias, y buen día.
+Nov 7, 10:01 PM 
+
+***************************************************************************
+Conversación 20
+Paris
+¡Buen día! ¿Cómo te va?
+Nov 8, 11:51 AM 
+Usuario
+Hola, estoy trabajando en este momento
+Nov 8, 11:51 AM 
+Paris
+Si deseas, puedes escribirme cómo te va. Buen día.
+Nov 8, 11:51 AM 
+Usuario
+Me va muy bien
+Nov 8, 11:52 AM 
+Paris
+Muchas gracias, y buen día.
+Nov 8, 11:52 AM 
+
+***************************************************************************
+Conversación 21
+Paris
+¡Buen día! ¿Cómo te encuentras?
+Nov 8, 2:38 PM 
+Usuario
+Hola, estoy bien
+Nov 8, 2:39 PM 
+Paris
+Coméntame, qué has estado haciendo
+Nov 8, 2:39 PM 
+Usuario
+He estado trabajando
+Nov 8, 2:39 PM 
+Paris
+Muchas gracias, y buen día.
+Nov 8, 2:39 PM 
+
+***************************************************************************
+Conversación 22
+Paris
+¡Hola! ¿Cómo estás?
+Nov 8, 2:39 PM 
+Usuario
+Hola, estoy bien
+Nov 8, 2:39 PM 
+Paris
+¿Cómo te has ido sintiendo?
+Nov 8, 2:39 PM 
+Usuario
+Un poco cansado, pero sé que llegando a casa podré descansar y relajarme. Quiero tocar guitarra
+Nov 8, 2:41 PM 
+Paris
+Muchas gracias por tus respuestas.
+Nov 8, 2:41 PM 
+
+***************************************************************************
+Conversación 23
+Paris
+¡Hola! ¿Cómo te encuentras?
+Nov 8, 2:49 PM 
+Usuario
+Hola, super bien y ¿Tú?
+Nov 8, 2:50 PM 
+Paris
+¿Qué ha pasado?
+Nov 8, 2:50 PM 
+Usuario
+Mi hija se enfermó el fin de semana pasado y ahora está completamente curada
+Nov 8, 2:51 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 8, 2:51 PM 
+Usuario
+Igualmente, que tengas buen fin de semana
+Nov 8, 2:51 PM 
+Paris
+Si deseas, puedes escribirme cómo te va. Buen día.
+Nov 8, 2:51 PM 
+Usuario
+Me va super bien, te decía
+Nov 8, 2:51 PM 
+Paris
+Puedes comentarme cómo te va cuando desees.
+Nov 8, 2:51 PM 
+Usuario
+Gracias por preguntar
+Nov 8, 2:52 PM 
+
+***************************************************************************
+Conversación 24
+Paris
+¡Hola! ¿Cómo te encuentras?
+Nov 8, 2:55 PM 
+Usuario
+Hola. Me encuentro medio enfermo
+Nov 8, 2:56 PM 
+Paris
+¡Buen día! ¿Cómo te encuentras?
+Nov 8, 2:56 PM 
+Usuario
+Enfermo
+Nov 8, 2:56 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 8, 2:56 PM 
+Usuario
+Estoy trabajando, mas tarde voy al karaoke
+Nov 8, 2:58 PM 
+Paris
+¿Qué ha pasado?
+Nov 8, 2:58 PM 
+Usuario
+Jugué en el ps4
+Nov 8, 2:59 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 8, 2:59 PM 
+
+***************************************************************************
+Conversación 25
+Paris
+¡Buen día! ¿Cómo te va?
+Nov 8, 4:37 PM 
+Usuario
+Estresado
+Nov 8, 4:37 PM 
+Paris
+Por favor, dime lo que ha sucedido
+Nov 8, 4:37 PM 
+Usuario
+La administración del inventario es una responsabilidad muy pesada, ya que de mi depende que los equipos esten completos y que no falte ningún cable o equipo
+Nov 8, 4:39 PM 
+Paris
+¿Qué cosas te afectaron?
+Nov 8, 4:39 PM 
+Usuario
+Que se hayan perdido cables o equipos y que haya equipos que se hayan malogrado por tener un buen mantenimiento
+Nov 8, 4:40 PM 
+Paris
+Gracias, que tengas un buen día.
+Nov 8, 4:40 PM 
+
+***************************************************************************
+Conversación 26
+Paris
+¡Buen día! ¿Cómo te va?
+Nov 7, 8:45 PM 
+Usuario
+Muy bien
+Nov 7, 8:45 PM 
+Paris
+¡Qué bien! Cuéntame, ¿qué ha sucedido?
+Nov 7, 8:45 PM 
+Usuario
+Me han sacado la muela del juicio
+Nov 7, 8:47 PM 
+Paris
+Gracias por responder. Buen día.
+Nov 7, 8:47 PM 
+
+***************************************************************************
+Conversación 27
+Paris
+¡Hola! ¿Cómo estás?
+Nov 8, 5:32 PM 
+Usuario
+Bien, tranquilo.
+Nov 8, 5:35 PM 
+Paris
+¿Cómo te has ido sintiendo?
+Nov 8, 5:35 PM 
+Usuario
+Hoy me asignaron tareas por hacer para comenzar mis prácticas como es debido. Hoy comenzaré con un trabajo mas intenso pero seguiré esforzándome
+Nov 8, 5:35 PM 
+Paris
+Puedes comentarme cómo te va cuando desees.
+Nov 8, 5:35 PM 
+
+***************************************************************************
+Conversación 28
+Paris
+¡Hola! Hasta ahora, ¿cómo va tu día?
+Nov 8, 5:36 PM 
+Usuario
+Hola! Hasta ahora tranquilo, aunque presiento que luego será mejor.
+Nov 8, 5:39 PM 
+Paris
+Dime, ¿cómo te has ido sintiendo durante el día?
+Nov 8, 5:39 PM 
+Usuario
+Bien. Hoy he podido descubrir que hay una persona con gustos similares a mi y me parece super linda. Quisiera poder conocerla más y eso hace que mi día sea bueno.
+Nov 8, 5:41 PM 
+Paris
+¿Por qué lo sientes así?
+Nov 8, 5:41 PM 
+Usuario
+Porque puedo pasar más tiempo con la persona mencionada.
+Nov 8, 5:42 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 8, 5:42 PM
+
+***************************************************************************
+Conversación 29
+Paris
+¡Hola! ¿Cómo estás?
+Nov 8, 6:06 PM 
+Usuario
+Bien
+Nov 8, 6:06 PM 
+Paris
+¿Qué ha pasado?
+Nov 8, 6:06 PM 
+Usuario
+Nada, todo esta bien
+Nov 8, 6:06 PM 
+Paris
+¿En serio? ¡Me alegro mucho! ¿Podrías comentarme lo sucedido?
+Nov 8, 6:06 PM 
+Usuario
+No ha sucedido nada, hoy ha sido un dia muy tranquilo
+Nov 8, 6:07 PM 
+Paris
+Muchas gracias por tus respuestas.
+Nov 8, 6:07 PM 
+Usuario
+Ok gracias
+Nov 8, 6:07 PM 
+Paris
+Muchas gracias por tus respuestas.
+Nov 8, 6:07 PM
+
+***************************************************************************
+Conversación 30
+Paris
+¡Hola! ¿Qué tal el día?
+Nov 8, 6:12 PM 
+Usuario
+Bien
+Nov 8, 6:12 PM 
+Paris
+Coméntame, qué has estado haciendo
+Nov 8, 6:12 PM 
+Usuario
+Trabajando
+Nov 8, 6:13 PM 
+Paris
+¿Qué ha pasado?
+Nov 8, 6:13 PM 
+Usuario
+He estado probando funcionalidades de aplicaciones mobiles
+Nov 8, 6:14 PM 
+Paris
+Gracias por responder. Buen día.
+Nov 8, 6:14 PM 
+Usuario
+Igualmente
+Nov 8, 6:15 PM 
+Paris
+Gracias por responder. Buen día.
+Nov 8, 6:15 PM
+
+***************************************************************************
+Conversación 31
+Paris
+¡Hola! ¿Qué tal el día?
+Nov 8, 6:27 PM 
+Usuario
+Bien
+Nov 8, 6:27 PM 
+Paris
+Coméntame, ¿cómo te sientes?
+Nov 8, 6:27 PM 
+Usuario
+Contento
+Nov 8, 6:27 PM 
+Paris
+¡Me alegro mucho por ti! Dime, ¿qué ha pasado?
+Nov 8, 6:27 PM 
+Usuario
+Hoy fue un día productivo, llegue temprano a la oficina y organice mi escritorio, después desayune y empece a revisar mis actividades. Los primeros días siempre son pesados porque se recibe mucha información
+Nov 8, 6:29 PM 
+Paris
+Si deseas, puedes escribirme cómo te va. Buen día.
+Nov 8, 6:29 PM
+
+***************************************************************************
+Conversación 32
+Paris
+¡Hola! ¿Hasta ahora cómo vas?
+Nov 8, 10:53 PM 
+Usuario
+Saludos querido bot, estoy bastante bien, algo cansado pero a Dios bien gracias con buena salud.
+Nov 8, 10:54 PM 
+Paris
+Por favor, dime lo que ha sucedido
+Nov 8, 10:54 PM 
+Usuario
+Nada memorable para la humanidad, pero sí para mi alma. Estoy ahora en una reunión con amigos, cantando, aunque bastante desafinado, pero disfrutando del momento.
+Nov 8, 10:56 PM 
+Paris
+¿Qué ha pasado?
+Nov 8, 10:56 PM 
+Usuario
+Diversión, sólo eso.
+Nov 8, 10:57 PM 
+Paris
+Muchas gracias, y buen día.
+Nov 8, 10:57 PM
+
+***************************************************************************
+Conversación 33
+Paris
+¡Hola! ¿Cómo te encuentras?
+1:20 AM 
+Usuario
+Masomenos
+1:20 AM 
+Paris
+Coméntame, ¿cómo te sientes?
+1:20 AM 
+Usuario
+Masomenos, en el trabajo todos me ignoran y me miran feo porque tengo oficina privada y soy muy joven
+1:22 AM 
+Paris
+Muchas gracias, y buen día.
+1:22 AM
+********************************************************************************
+Nuevas conversaciones!!!!!!!!
+Conversación 34
+Paris
+¡Hola! Hasta ahora, ¿cómo va tu día?
+Nov 26, 3:49 PM 
+Usuario
+Hola. Bien gracias
+Nov 26, 3:50 PM 
+Paris
+¡Hola! Hasta ahora, ¿cómo va tu día?
+Nov 26, 3:50 PM 
+Usuario
+Me duele un poco la cabeza por el calor, pero en general me va bastante bien
+Nov 26, 3:51 PM 
+Paris
+Coméntame, qué has estado haciendo
+Nov 26, 3:51 PM 
+Usuario
+He estado estudiando para una certificación que quiero tomar.
+Nov 26, 3:51 PM 
+Paris
+Muchas gracias por tus respuestas.
+Nov 26, 3:51 PM 
+*****************************************************************
+Conversación 35
+Paris
+¡Buen día! ¿Cómo te va?
+Nov 26, 3:55 PM 
+Usuario
+Hola, estresada y cansada
+Nov 26, 3:55 PM 
+Paris
+¡Buen día! ¿Cómo te va?
+Nov 26, 3:55 PM 
+Usuario
+Estresada
+Nov 26, 3:55 PM 
+Paris
+¿Por qué lo sientes así?
+Nov 26, 3:55 PM 
+Usuario
+Porque tuve mucho trabajo
+Nov 26, 3:56 PM 
+Paris
+Muchas gracias por tus respuestas.
+Nov 26, 3:56 PM 
+Usuario
+Ok
+Nov 26, 3:56 PM 
+Paris
+Si deseas, puedes escribirme cómo te va. Buen día.
+Nov 26, 3:56 PM 
+Usuario
+Está bien
+Nov 26, 3:56 PM 
+Paris
+Gracias por responder. Buen día.
+Nov 26, 3:56 PM 
+*********************************************************************
+Conversación 36
+Paris
+¡Buen día! ¿Cómo te encuentras?
+Nov 26, 4:20 PM 
+Usuario
+Hola, bien
+Nov 26, 4:20 PM 
+Paris
+¡Qué bueno! Dime, ¿qué ha pasado?
+Nov 26, 4:20 PM 
+Usuario
+He pasado un rato divertido con mis amigos
+Nov 26, 4:22 PM 
+Paris
+¡Qué bueno! Descríbeme por qué es un buen día para ti
+Nov 26, 4:22 PM 
+Usuario
+Conversé sobre la tunta con mis amigos y nos reímos mucho
+Nov 26, 4:25 PM 
+Paris
+Muchas gracias por tus respuestas.
+Nov 26, 4:25 PM 
+********************************************************************
+Conversación 37
+Paris
+¡Buen día! ¿Cómo te encuentras?
+Nov 26, 4:53 PM 
+Usuario
+Hoy día me siento agotada y un poco nostálgica
+Nov 26, 4:54 PM 
+Paris
+¿Por qué lo sientes así?
+Nov 26, 4:54 PM 
+Usuario
+Porque tuve un mal día y mis hormonas andan alteradas
+Nov 26, 4:54 PM 
+Paris
+¿Podrías comentarme qué cosas te afectaron?
+Nov 26, 4:54 PM 
+Usuario
+Sí problemas que sucedieron en el pasado y cómo me hace sentir eso ahora
+Nov 26, 4:55 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 26, 4:55 PM 
+**********************************************************************
+Conversación 38
+Paris
+¡Hola! Hasta ahora, ¿cómo va tu día?
+Nov 26, 5:21 PM 
+Usuario
+Bien, es bastante tranquilo
+Nov 26, 5:21 PM 
+Paris
+¿Cómo te sientes?
+Nov 26, 5:21 PM 
+Usuario
+Tranquila
+Nov 26, 5:22 PM 
+Paris
+¿Cómo te sientes?
+Nov 26, 5:22 PM 
+Usuario
+Tranquila
+Nov 26, 5:22 PM 
+Paris
+Gracias por responder. Buen día.
+Nov 26, 5:22 PM 
+********************************************************************************
+Conversación 39
+Paris
+¡Hola! Hasta ahora, ¿cómo va tu día?
+Nov 26, 5:26 PM 
+Usuario
+Hola, muy bien
+Nov 26, 5:26 PM 
+Paris
+¡Me alegro mucho por ti! Dime, ¿qué ha pasado?
+Nov 26, 5:26 PM 
+Usuario
+Estoy ilusionada con alguien del trabajo y eso me hace sentir bien
+Nov 26, 5:27 PM 
+Paris
+¿Cómo te sientes?
+Nov 26, 5:27 PM 
+Usuario
+Ilusionada y muy bien
+Nov 26, 5:28 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 26, 5:28 PM 
+Usuario
+Gracias igual tú
+Nov 26, 5:28 PM 
+Paris
+Muchas gracias por tus respuestas.
+Nov 26, 5:28 PM 
+********************************************************************************
+Conversación 40
+Paris
+¡Buen día! ¿Cómo estás?
+Nov 26, 6:09 PM 
+Usuario
+Hola Paris, muy bien
+Nov 26, 6:09 PM 
+Paris
+¿En serio? ¡Me alegro mucho! ¿Podrías comentarme lo sucedido?
+Nov 26, 6:09 PM 
+Usuario
+Me siento optimista. Las épocas feas ya pasaron.
+Nov 26, 6:10 PM 
+Paris
+¿Podrías comentarme qué cosas te afectaron?
+Nov 26, 6:10 PM 
+Usuario
+Hubo conflictos entre amigos cercanos, e hice lo posible para apoyar.
+Nov 26, 6:11 PM 
+Paris
+Muchas gracias por tus respuestas.
+Nov 26, 6:11 PM 
+Usuario
+De nada.
+Nov 26, 6:11 PM 
+Paris
+Gracias. Que tengas un buen día.
+Nov 26, 6:11 PM 
+Usuario
+Igualmente.
+Nov 26, 6:11 PM 
+Paris
+Puedes comentarme cómo te va cuando desees.
+Nov 26, 6:11 PM 
+********************************************************************************
+Conversación 41
+Paris
+¡Buen día! ¿Cómo estás?
+Nov 26, 6:30 PM 
+Usuario
+Hola, bien
+Nov 26, 6:31 PM 
+Paris
+¡Qué bueno! Descríbeme por qué es un buen día para ti
+Nov 26, 6:31 PM 
+Usuario
+Porque hoy día ha sido un día muy productivo en mi trabajo. He podido avanzar con muchos pendientes y también hacer un Training a un integrante nuevo del equipo. Adicionalmente a eso mi embarazo está yendo muy bien y el bebé cada día está creciendo así que eso me tiene muy emocionada.
+Nov 26, 6:34 PM 
+Paris
+Muchas gracias, y buen día.
+Nov 26, 6:35 PM
+********************************************************************************
+Conversación 42
+Paris
+¡Hola! Hasta ahora, ¿cómo va tu día?
+Nov 26, 7:08 PM 
+Usuario
+Estoy muy bien
+Nov 26, 7:08 PM 
+Paris
+Si deseas, puedes escribirme cómo te va. Buen día.
+Nov 26, 7:08 PM 
+Usuario
+Me siento feliz y satisfecho con mi desempeño en el trabajo el día de hoy. Además me siento saludable y fuerte.
+Nov 26, 7:09 PM 
+Paris
+¿Qué cosas te afectaron?
+Nov 26, 7:09 PM 
+Usuario
+Tuve que investigar muy a profundidad un problema sobre el cual no tenía mucho conocimiento
+Nov 26, 7:11 PM 
+Paris
+Muchas gracias, y buen día.
+Nov 26, 7:11 PM 
+********************************************************************************
+Conversación 43
+Paris
+¡Hola! ¿Cómo te encuentras?
+Nov 27, 7:51 PM 
+Usuario
+Estresado
+Nov 27, 7:51 PM 
+Paris
+¿Por qué lo sientes así?
+Nov 27, 7:51 PM 
+Usuario
+Porque dediqué una gran parte del día a trabajos manuales, lo cual me genera aburrimiento. Además, no pude culminar con lo que tenía como objetivo para hoy, lo cual implica que arrastre el estrés para el día siguiente. Sin embargo, por otro lado, siento que es cada vez más fluida mi adaptación a la parte técnica del trabajo. En síntesis, considero que hubo cosas tanto negativas como positivas en mi día.
+Nov 27, 7:56 PM 
+Paris
+Muchas gracias, y buen día.
+Nov 27, 7:56 PM
+*************************************************************************
+Conversación 44
+Paris
+¡Hola! ¿Cómo estás?
+Dec 3, 8:21 AM 
+Usuario
+Cansada, ayer no dormí bien.
+Dec 3, 8:21 AM 
+Paris
+¿Qué ha pasado?
+Dec 3, 8:21 AM 
+Usuario
+Tengo mucha carga en el trabajo, muchas personas me tratan mal y me discriminan
+Dec 3, 8:23 AM 
+Paris
+¿Qué cosas te afectaron?
+Dec 3, 8:23 AM 
+Usuario
+Me miran feo, me ignoran cuando doy una indicación, están hablando mal de mí a mis espaldas
+Dec 3, 8:23 AM 
+Paris
+Muchas gracias, y buen día.
+Dec 3, 8:23 AM 
+**************************************************************************
+Conversación 45
+Paris
+¡Hola! Cuéntame, ¿cómo te ha ido?
+Dec 4, 5:49 PM 
+Usuario
+Hola. Es un día tranquilo
+Dec 4, 5:50 PM 
+Paris
+¿Cómo te sientes?
+Dec 4, 5:50 PM 
+Usuario
+Eficiente
+Dec 4, 5:50 PM 
+Paris
+Gracias por responder. Buen día.
+Dec 4, 5:50 PM 
+************************************************************************
+Conversación 46
+Paris
+¡Buen día! ¿Cómo estás?
+Dec 4, 5:51 PM 
+Usuario
+Hola. Todo muy bien ¿Y tú?
+Dec 4, 5:52 PM 
+Paris
+¡Me alegro mucho por ti! Dime, ¿qué ha pasado?
+Dec 4, 5:52 PM 
+Usuario
+He avanzado mucho en el trabajo
+Dec 4, 5:54 PM 
+Paris
+¿Qué cosas te afectaron?
+Dec 4, 5:54 PM 
+Usuario
+El tiempo para cada tarea
+Dec 4, 5:55 PM 
+Paris
+Gracias. Que tengas un buen día.
+Dec 4, 5:55 PM 
+Usuario
+Igualmente
+Dec 4, 5:55 PM 
+Paris
+Si deseas, puedes escribirme cómo te va. Buen día.
+Dec 4, 5:55 PM 
+Usuario
+Ok
+Dec 4, 5:56 PM 
+Paris
+Muchas gracias, y buen día.
+Dec 4, 5:56 PM 
+********************************************************************
+Conversación 47
+Paris
+¡Hola! Cuéntame, ¿cómo te ha ido?
+Dec 4, 5:59 PM 
+Usuario
+Regular
+Dec 4, 5:59 PM 
+Paris
+Puedes comentarme cómo te va cuando desees.
+Dec 4, 5:59 PM 
+Usuario
+Gracias por tu interés. La verdad es que estoy cansado pero muy positivo también
+Dec 4, 6:00 PM 
+Paris
+¿Qué ha pasado?
+Dec 4, 6:00 PM 
+Usuario
+He tenido mucho trabajo y eso me ha dejado exhausto
+Dec 4, 6:00 PM 
+Paris
+Muchas gracias por tus respuestas.
+Dec 4, 6:00 PM 
+Usuario
+Gracias
+Dec 4, 6:00 PM 
+Paris
+Puedes comentarme cómo te va cuando desees.
+Dec 4, 6:00 PM 
+*********************************************************
+Conversación 48
+Paris
+¡Buen día! ¿Cómo te encuentras?
+Dec 4, 6:01 PM 
+Usuario
+Hola, bien, cansada
+Dec 4, 6:01 PM 
+Paris
+¡Buen día! ¿Cómo estás?
+Dec 4, 6:01 PM 
+Usuario
+Hola, bien, pero cansada
+Dec 4, 6:01 PM 
+Paris
+¿Por qué lo sientes así? Coméntame lo que piensas
+Dec 4, 6:01 PM 
+Usuario
+Un día se trabajó a más no poder
+Dec 4, 6:01 PM 
+Paris
+Muchas gracias, y buen día.
+Dec 4, 6:02 PM 
+************************************************************
+Conversación 49
+Paris
+¡Hola! ¿Hasta ahora cómo vas?
+11:56 PM 
+Usuario
+Me parece que bien
+11:56 PM 
+Paris
+¡Qué bueno! Descríbeme por qué es un buen día para ti
+11:56 PM 
+Usuario
+Porque me dieron una excelente noticia en la universidad, acabé mis pendientes a tiempo, salí temprano del trabajo y estoy hablando con un amigo que no veo hace años
+11:57 PM 
+Paris
+Muchas gracias por tus respuestas.
+11:57 PM 
+Usuario
+Igualmente
+Dec 5, 11:58 PM 
+Paris
+Muchas gracias por tus respuestas.
+Dec 5, 11:58 PM
